@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.exe
+C:\Users\123\Desktop\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.pdb
+C:\Users\123\Desktop\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.csprojAssemblyReference.cache
+C:\Users\123\Desktop\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.exe
+C:\Users\123\Desktop\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.pdb
