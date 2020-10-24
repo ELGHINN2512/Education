@@ -1,0 +1,13 @@
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\bin\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.exe
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\bin\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.deps.json
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\bin\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.runtimeconfig.json
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\bin\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.runtimeconfig.dev.json
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\bin\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.dll
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\bin\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.pdb
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.csprojAssemblyReference.cache
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.AssemblyInfo.cs
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.dll
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.pdb
+C:\Users\123\Desktop\1.2.1 Mihalich-zver\obj\Debug\netcoreapp3.1\1.2.1 Mihalich-zver.genruntimeconfig.cache
