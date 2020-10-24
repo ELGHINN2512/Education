@@ -1,0 +1,13 @@
+C:\Users\123\Desktop\1.1 CreateStruct\bin\Debug\netcoreapp3.1\1.1 CreateStruct.exe
+C:\Users\123\Desktop\1.1 CreateStruct\bin\Debug\netcoreapp3.1\1.1 CreateStruct.deps.json
+C:\Users\123\Desktop\1.1 CreateStruct\bin\Debug\netcoreapp3.1\1.1 CreateStruct.runtimeconfig.json
+C:\Users\123\Desktop\1.1 CreateStruct\bin\Debug\netcoreapp3.1\1.1 CreateStruct.runtimeconfig.dev.json
+C:\Users\123\Desktop\1.1 CreateStruct\bin\Debug\netcoreapp3.1\1.1 CreateStruct.dll
+C:\Users\123\Desktop\1.1 CreateStruct\bin\Debug\netcoreapp3.1\1.1 CreateStruct.pdb
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.csprojAssemblyReference.cache
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.AssemblyInfo.cs
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.dll
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.pdb
+C:\Users\123\Desktop\1.1 CreateStruct\obj\Debug\netcoreapp3.1\1.1 CreateStruct.genruntimeconfig.cache
