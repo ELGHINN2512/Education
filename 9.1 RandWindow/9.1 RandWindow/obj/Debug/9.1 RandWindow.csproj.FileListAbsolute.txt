@@ -1,0 +1,10 @@
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\bin\Debug\9.1 RandWindow.exe.config
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\bin\Debug\9.1 RandWindow.exe
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\bin\Debug\9.1 RandWindow.pdb
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\9.1 RandWindow.csprojAssemblyReference.cache
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\_9._1_RandWindow.Form1.resources
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\_9._1_RandWindow.Properties.Resources.resources
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\9.1 RandWindow.csproj.GenerateResource.cache
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\9.1 RandWindow.csproj.CoreCompileInputs.cache
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\9.1 RandWindow.exe
+C:\Users\jaroc\source\repos\9.1 RandWindow\9.1 RandWindow\obj\Debug\9.1 RandWindow.pdb
